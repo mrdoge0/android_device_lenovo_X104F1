@@ -7,10 +7,10 @@ It was released in August 2018.
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.10GHz
-Chipset | Qualcomm MSM8909 Snapdragon 212
+Chipset | Qualcomm APQ8009 Snapdragon 212
 GPU     | 400MHz Adreno 304
 Memory  | 3 GB (LPDDR3)
-Shipped Android Version | 8.1
+Shipped Android Version | 8.1.0
 Storage | 32 GB
 MicroSD | Up to ? GB
 Battery | Li-Ion 4850 mAh (non-removable)
