@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/lenovo/X104F
+DEVICE_PATH := device/lenovo/X104F1
 
 # Architecture
 TARGET_ARCH := arm
