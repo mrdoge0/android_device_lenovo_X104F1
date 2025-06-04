@@ -195,4 +195,4 @@ PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.0-service
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/lenovo/X104F/X104F-vendor.mk)
+$(call inherit-product, vendor/lenovo/X104F1/X104F1-vendor.mk)
